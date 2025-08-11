@@ -1,5 +1,0 @@
-Aug 11 12:34:50 mallory failed login attempt from 192.168.1.45
-Aug 11 12:34:51 mallory failed login attempt from 192.168.1.45
-Aug 11 12:34:52 mallory failed login attempt from 192.168.1.45
-Aug 11 12:34:53 mallory failed login attempt from 192.168.1.45
-Aug 11 12:34:54 mallory failed login attempt from 192.168.1.45
