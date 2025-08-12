@@ -17,7 +17,7 @@
 ![Search Query](screenshots/search_query.png)
 
 ### Triggered Alert
-![Alert](screenshots/alert_triggered.png)
+![Alert](screenshots/triggered_alerts.png)
 
 ### Investigation Dashboard
 ![Dashboard](screenshots/dashboard.png)
