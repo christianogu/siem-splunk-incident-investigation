@@ -10,8 +10,8 @@
 ### Splunk Login
 ![Splunk Login](screenshots/splunk_enterprise_login.png)
 
-### Data Input Setup
-![Data Input](screenshots/data_input.png)
+### Add Data
+![Data Input](screenshots/splunk_enterprise_add_data.png)
 
 ### Search Query Execution
 ![Search Query](screenshots/splunk_search_query.png)
