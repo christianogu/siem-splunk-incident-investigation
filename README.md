@@ -1,2 +1,29 @@
-# siem-splunk-incident-investigation
-Simulates SOC analyst tasks using Splunk Enterprise. Includes synthetic log generation, log ingestion, field extraction, alert creation for suspicious activity (e.g., failed logins), incident investigation, and dashboards. Demonstrates practical skills in security monitoring and incident response.
+
+## Setup
+
+1. Install Splunk Enterprise in a VM or local environment.
+2. Add data inputs to ingest logs from `logs/` folder.
+3. Run the Python scripts to generate log events.
+
+## Screenshots
+
+### Splunk Login
+![Splunk Login](screenshots/splunk_login.png)
+
+### Data Input Setup
+![Data Input](screenshots/data_input.png)
+
+### Search Query Execution
+![Search Query](screenshots/search_query.png)
+
+### Triggered Alert
+![Alert](screenshots/alert_triggered.png)
+
+### Investigation Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+## Conclusion
+
+This project demonstrates the end-to-end process of setting up a SIEM solution with Splunk, from ingesting logs to investigating alerts. It can be extended with more complex log generation, correlation searches, and automated responses.
+
+---
