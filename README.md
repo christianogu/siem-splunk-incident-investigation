@@ -19,8 +19,8 @@
 ### Triggered Alert
 ![Alert](screenshots/triggered_alerts.png)
 
-### Investigation Dashboard
-![Dashboard](screenshots/dashboard.png)
+### Dashboards
+![Dashboard](screenshots/splunk_enterprise_dashboard.png)
 
 ## Conclusion
 
