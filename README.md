@@ -14,7 +14,7 @@
 ![Data Input](screenshots/data_input.png)
 
 ### Search Query Execution
-![Search Query](screenshots/search_query.png)
+![Search Query](screenshots/splunk_search_query.png)
 
 ### Triggered Alert
 ![Alert](screenshots/triggered_alerts.png)
