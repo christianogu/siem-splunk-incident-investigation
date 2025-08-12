@@ -8,7 +8,7 @@
 ## Screenshots
 
 ### Splunk Login
-![Splunk Login](screenshots/splunk_login.png)
+![Splunk Login](screenshots/splunk_enterprise_login.png)
 
 ### Data Input Setup
 ![Data Input](screenshots/data_input.png)
